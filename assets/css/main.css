@@ -35,7 +35,7 @@ section, summary, time, mark, audio, video {
 
 
 	/* Wide column */
-.column-1 {
+/* .column-1 {
 	width: 100%;
 	height: auto;
 	padding-top:30px;
@@ -45,11 +45,11 @@ section, summary, time, mark, audio, video {
 	margin-bottom:10px;
 	margin-top: 10px;
 	background-color:white;
-  } 
-  table {
+  }  */
+  /* table {
 	width: 100%;
 	border: 1px solid #eeeeee;
-  }
+  } */
   
   
   /* Table formatting */
