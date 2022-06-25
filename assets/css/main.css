@@ -33,6 +33,26 @@ section, summary, time, mark, audio, video {
 	font-size: 35px;
 	}
 
+
+	/* Wide column */
+.column-1 {
+	width: 90%;
+	height: auto;
+	padding-top:70px;
+	padding-left:70px;
+	padding-bottom:70px;
+	margin:auto;
+	margin-bottom:50px;
+	margin-top: 75px;
+	background-color:white;
+  }
+  
+  /* Table formatting */
+  .table-style {
+	width:100%;
+	border-spacing: 24px;
+  }
+  
 article, aside, details, figcaption, figure,
 footer, header, hgroup, menu, nav, section {
 	display: block;}
