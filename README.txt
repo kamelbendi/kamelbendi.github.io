@@ -1,4 +1,4 @@
-This is my very first and current portofolio .. after starting this journey of coding on the 
+This is my current portofolio .. after starting this journey of coding on the 
 1st of May 2022, and reading about multiple people's stories on how they got into coding, Almost if
 not all of them, said that having a portofolio is an important evidence to showcase the skills and abilities
 to code, design and build.
